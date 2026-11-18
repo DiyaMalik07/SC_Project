@@ -1,0 +1,1 @@
+{"method": "Baseline RF", "features": ["Time", "Protcol", "Flag", "Family", "Clusters", "SeddAddress", "ExpAddress", "BTC", "USD", "Netflow_Bytes", "IPaddress", "Threats", "Port"]}
